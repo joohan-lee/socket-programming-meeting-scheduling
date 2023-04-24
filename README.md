@@ -1,3 +1,6 @@
+## Environment
+- Language: C
+- OS: 16.04 Ubuntu 64 Bit
 ## How to run
 1. Run make all to complie c files.
 ```
